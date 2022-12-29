@@ -2,7 +2,7 @@
 https://github.com/NVlabs/instant-ngp
 
 
-## Viewer for Windows
+## Viewer for Windows (Built with CUDA Toolkit 12.0)
 - Install latest Nvidia Driver
 https://www.nvidia.com/download/index.aspx
 
