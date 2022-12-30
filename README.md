@@ -3,7 +3,6 @@
 ## Main Repo
 https://github.com/NVlabs/instant-ngp
 
-
 ## Viewer for Windows (Built with CUDA Toolkit 12.0)
 - Install latest Nvidia Driver
 https://www.nvidia.com/download/index.aspx
@@ -20,3 +19,5 @@ https://aka.ms/vs/17/release/vc_redist.x64.exe
 - CMD for view trained model 
   - `.\build\instant-ngp --scene data\nerf\fox --no-train --snapshot data\nerf\fox\20000.msgpack`
 
+## How To Use
+Youtube Video Link: https://youtu.be/0ykalxTMdMU
