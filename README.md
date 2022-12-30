@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/instant-ngp-colab/blob/main/instant_ngp.ipynb)
+
 ## Main Repo
 https://github.com/NVlabs/instant-ngp
 
